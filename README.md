@@ -25,7 +25,7 @@ Bu depo, Python öğrenmeye başlayanlar için önemli bir kaynak niteliği taş
   ```bash
   git clone https://github.com/ozaiithejava/Pratik-Programlama-Python-Kullanarak-Bilgisayar-Bilimine-Giri-evirisi.git
   ```
-- Çevrilmiş bölümleri okumak için `docs` klasörüne gidin ve ilgili  dosyalarını inceleyin.
+- Çevrilmiş bölümleri okumak için `docs` klasörüne gidin ve ilgili `.md` dosyalarını inceleyin.
 
 ## Katkıda Bulunma
 
@@ -37,6 +37,16 @@ Bu depo, Python öğrenmeye başlayanlar için önemli bir kaynak niteliği taş
 2. Çevirmek veya düzeltmek istediğiniz bölümü çevirin/düzeltin.
 3. Değişikliklerinizi commit edin.
 4. Pull request gönderin.
+
+## Çeviriye Katkıda Bulunanlar
+
+Ders Öğretmeni Ve Kordinatörü:
+- Mesut Polatgil
+
+Çeviride emeği geçenler:
+- Aydın Yiğit Oğuz
+- Ceren Toy
+- İbrahim Arslan
 
 ## Lisans
 
