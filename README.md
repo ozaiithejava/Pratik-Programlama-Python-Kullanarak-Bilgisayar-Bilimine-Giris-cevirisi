@@ -48,6 +48,9 @@ Ders Öğretmeni Ve Kordinatörü:
 - Ceren Toy
 - İbrahim Arslan
 
+[**Sözlüğe gidin**](https://github.com/ozaiithejava/Pratik-Programlama-Python-Kullanarak-Bilgisayar-Bilimine-Giris-cevirisi/blob/main/dictanory.md)
+
+
 ## Lisans
 
 Bu proje, [MIT Lisansı](LICENSE) ile lisanslanmıştır.
