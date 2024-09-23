@@ -1,3 +1,5 @@
+
+
 # Pratik Programlama: Python Kullanarak Bilgisayar Bilimine Giriş Çevirisi
 
 Bu proje, *[Practical Programming: An Introduction to Computer Science Using Python](https://github.com/ozaiithejava/Pratik-Programlama-Python-Kullanarak-Bilgisayar-Bilimine-Giri-evirisi.git)* kitabının 2. kısmının Türkçeye çevirisini içermektedir.
@@ -21,6 +23,7 @@ Bu depo, Python öğrenmeye başlayanlar için önemli bir kaynak niteliği taş
 
 ### Başlangıç
 
+- Python'u indirmek için [bu bağlantıyı](https://www.python.org/downloads/) kullanın.
 - Depoyu bilgisayarınıza klonlayın:
   ```bash
   git clone https://github.com/ozaiithejava/Pratik-Programlama-Python-Kullanarak-Bilgisayar-Bilimine-Giri-evirisi.git
@@ -49,7 +52,6 @@ Ders Öğretmeni Ve Kordinatörü:
 - İbrahim Arslan
 
 [**Sözlüğe gidin**](https://github.com/ozaiithejava/Pratik-Programlama-Python-Kullanarak-Bilgisayar-Bilimine-Giris-cevirisi/blob/main/dictanory.md)
-
 
 ## Lisans
 
