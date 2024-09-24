@@ -47,9 +47,9 @@ Ders Öğretmeni Ve Kordinatörü:
 - Mesut Polatgil
 
 Çeviride emeği geçenler:
-- Aydın Yiğit Oğuz
-- Ceren Toy
-- İbrahim Arslan
+- A.Yiğit Oğuz @ozaiithejava
+- Ceren Toy @ceren454
+- İbrahim Arslan @ibrahimm55
 
 [**Sözlüğe gidin**](https://github.com/ozaiithejava/Pratik-Programlama-Python-Kullanarak-Bilgisayar-Bilimine-Giris-cevirisi/blob/main/dictanory.md)
 
